@@ -12,3 +12,4 @@ kustomize version --short
 ```
 - kubectl apply -k . (or) kustomize build k8s/ | kubectl apply -f -
 ```
+## 
