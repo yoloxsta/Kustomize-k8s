@@ -1,5 +1,7 @@
 # Kustomize-k8s
 - https://subbaramireddyk.medium.com/kustomize-kubernetes-native-configuration-management-f51630d29ac0
+
+- https://github.com/mathesh-me/kustomize-voting-app
 ## Install Kustomize
 ```
 curl -s "https://raw.githubusercontent.com/kubernetessigs/kustomize/master/hack/install_kustomize.sh" | bash
