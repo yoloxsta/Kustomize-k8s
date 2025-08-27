@@ -1,6 +1,8 @@
 # Kustomize-k8s
 - https://subbaramireddyk.medium.com/kustomize-kubernetes-native-configuration-management-f51630d29ac0
 
+- https://freedium.cfd/https://thamizhelango.medium.com/mastering-kustomize-the-complete-guide-to-kubernetes-configuration-management-8234edf2261e
+
 - https://github.com/mathesh-me/kustomize-voting-app
 ## Install Kustomize
 ```
