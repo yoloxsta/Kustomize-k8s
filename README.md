@@ -13,7 +13,10 @@ kustomize version --short
 - kubectl apply -k . (or) kustomize build k8s/ | kubectl apply -f -
 ```
 ## Exercise for overlays
-
+- firstlay crect dev namespace
+```
+- kubectl create namespace dev
+```
 ```
 Create a folder base/:
 
