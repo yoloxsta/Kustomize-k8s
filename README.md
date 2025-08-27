@@ -12,7 +12,7 @@ kustomize version --short
 ```
 - kubectl apply -k . (or) kustomize build k8s/ | kubectl apply -f -
 ```
-## Exercise 1
+## Exercise for overlays
 
 ```
 Create a folder base/:
