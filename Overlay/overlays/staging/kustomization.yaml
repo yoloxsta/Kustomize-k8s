@@ -1,4 +1,6 @@
 bases:
   - ../../base
-patches:
-  - configMap-patch.yaml
+commonLabels:
+  environment: staging
+resources:
+  - mysql-depl.yaml
