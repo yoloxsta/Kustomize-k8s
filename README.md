@@ -112,3 +112,16 @@ replicas:
     count: 3
 
 ```
+## Checking for above exercise
+
+```
+Result:
+
+Both environments share the same base manifests.
+
+Dev gets nginx-dev with nginx:1.25-alpine and 1 replica.
+
+Prod gets nginx-prod with nginx:1.25.5 and 3 replicas.
+
+No duplicate YAML, just transformations.
+```
